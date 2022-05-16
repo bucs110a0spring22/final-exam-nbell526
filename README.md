@@ -12,16 +12,20 @@ Please make sure you have completed the soot survey at:
     [soot.binghamton.edu](https://soot.binghamton.edu)
 
 Please list the urls for the APIs you used:
+http://meowfacts.herokuapp.com/
+http://dog-api.kinduff.com/api/facts
 
 Summary of Program:
+My program takes the URL's above and generates a cat or dog fact when ran. 
 
 Most Challenging topic in the course:
+Creating the string defintely gave me some trouble.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+none
 
 ## REFERENCES:
- < List any outside resources used >
+websites provided in description 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+have a nice summer. next time i have corn ill think of my cs110 ta!!!
